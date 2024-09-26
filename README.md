@@ -1,4 +1,4 @@
-###  ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb26ef4C0OkOva1BnLs6kX5PEKosaPcgo8LMQkoQE0rGklKS7S483lVQ54A4z_Z2K-3ZIcfwa5QHBXBisoR0S7jLwVPVk0Ww2GVTC3zLHYyRkIARtEA7BhrfvpMXxLknhptuZzuN7MVW0U7OerOtsDkGLaIDGvVCnrnhs8lKS0NtJOZE5JjreKDm_4VQ0/w604-h150/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+###  ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMoa2y3U5b_8qXLNqwxC6Yu5AtdPHMzAgn-JuLLnCNjz53Uxo3hOvLODjbQtb7Grpdtct6x5G4M5YG6niL5rb1h24XgWhCtbxbEQ7U6YaOLNd8jlyahBX2p0T25dFpZQIFjf1YloUHn0yx049tOks97tg2l4FUp5J3PCDPWlnIBBwDg6AwWjvFpSl_8UY/w750-h185/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner1.png)
 
 <h1 align="center">Hi 👋, I'm BHUPENDRA PAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
